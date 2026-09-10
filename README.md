@@ -4,6 +4,8 @@
 
 網址：<https://judykuo1994.github.io/wayne-ai-diary/>
 
+可愛版（同內容、手帳貼紙本風格）：<https://judykuo1994.github.io/wayne-ai-diary/cute/>
+
 ## 這個 repo 只放成品
 
 `index.html` 是**產生出來的**，不要直接編輯。原始碼、素材與製作說明在另一個 private repo
